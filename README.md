@@ -1,6 +1,7 @@
 # Card-Produto-React
 ![card-produto](https://github.com/CristianeSanMiguel/Card-Produto-React/blob/main/imagens/card-produto.png)
-Este é um projeto simples de um componente funcional em React JS que exibe um card de produto. O componente recebe os dados do produto no formato JSON via props e exibe a imagem, nome, preço e um botão de compra.
+
+- Este é um projeto simples de um componente funcional em React JS que exibe um card de produto. O componente recebe os dados do produto no formato JSON via props e exibe a imagem, nome, preço e um botão de compra.
 
 ## Descrição
 
