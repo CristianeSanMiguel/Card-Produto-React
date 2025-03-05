@@ -19,7 +19,7 @@ Para executar o projeto localmente, siga as etapas abaixo:
 
 1. Clone o repositório:
     ```sh
-    git clone https://github.com/seu-usuario/nome-do-repositorio.git
+    git clone https://github.com/CristianeSanMiguel/Card-Produto-React.git
     ```
 
 2. Navegue até o diretório do projeto:
